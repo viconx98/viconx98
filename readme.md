@@ -37,7 +37,7 @@ I am a passionate developer who finds joy in writing quality code, I have an end
 **Backend: TypeScript, Node, ExpressJS, MongoDB**
 
 #### About
-Quiz up! is a quiz playing app aimed at making the interactions between students and teachers fun. It allows teachers to setup quizess and host them in real time with their class with any number of students.
+Quiz up! is a quiz playing app aimed at making the interactions between students and teachers fun. It allows teachers to create quizess and host them in real time with their class where any number of students can participate.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
@@ -59,17 +59,3 @@ Quiz up! is a quiz playing app aimed at making the interactions between students
  ---
  
  ### <p align = "center">Have a great day<p/>
-  <!--
-**devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
