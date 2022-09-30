@@ -29,8 +29,18 @@ I am a passionate developer who finds joy in writing quality code, I have an end
 
 
 ---
+### Personal Projects
 
- 
+## <a href="https://quizup-frontend-blush.vercel.app/">Quiz Up!</a>
+**Frontend: TypeScript, React, TailwindCSS**
+
+**Backend: TypeScript, Node, ExpressJS, MongoDB**
+
+#### About
+Quiz up! is a quiz playing app aimed at making the interactions between students and teachers fun. It allows teachers to setup quizess and host them in real time with their class with any number of students.
+
+#### Screenshots
+
  
  ---
 
