@@ -40,7 +40,14 @@ I am a passionate developer who finds joy in writing quality code, I have an end
 Quiz up! is a quiz playing app aimed at making the interactions between students and teachers fun. It allows teachers to setup quizess and host them in real time with their class with any number of students.
 
 #### Screenshots
-
+<div style="dispaly: flex: justify-content: center">
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_dash.png" width="48%"/>
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_quiz_ready.png" width ="48%"/>
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_question_player.png" width="48%"/>
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_question_answered.png" width ="48%"/>
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_quiz_complete_player.png" width="48%"/>
+  <img src = "https://raw.githubusercontent.com/viconx98/viconx98/main/images/quizup/qu_quiz_complete_admin.png" width ="48%"/>
+ </div>
  
  ---
 
