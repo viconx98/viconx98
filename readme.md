@@ -49,9 +49,9 @@ Quiz up! is a quiz playing app aimed at making the interactions between students
  ---
 
 ### Stats
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=viconx98&show_icons=true&theme=cobalt)
+![Vihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=viconx98&show_icons=true&theme=cobalt)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viconx98&layout=compact&theme=cobalt)](https://github.com/devgiri0082)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viconx98&layout=compact&theme=cobalt)](https://github.com/viconx98)
 
  ---
  
