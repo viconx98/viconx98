@@ -23,7 +23,7 @@ I am a passionate developer who finds joy in writing quality code, I have an end
 
 
 ### Tech I am currently learning or would love to learn
-[![Tech I work with](https://skillicons.dev/icons?i=electron,tailwind,reactivex,flutter,androidstudio,kotlin,py)](https://skillicons.dev)
+[![Tech extras](https://skillicons.dev/icons?i=nextjs,electron,tailwind,reactivex,flutter,androidstudio,kotlin,py)](https://skillicons.dev)
 
 ---
 ### Personal Projects
