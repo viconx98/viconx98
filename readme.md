@@ -5,6 +5,7 @@
 
 I am a passionate developer who finds joy in writing quality code, I have an endless appetite for learning new things and tackling new challenges, this same appetite has led me to discover and learn the MERN stack which is my current focus as a full stack developer. 
 
+<!--
 <h2>Connect With Me</h2>
 
 
@@ -15,6 +16,7 @@ I am a passionate developer who finds joy in writing quality code, I have an end
 <a href="www.linkedin.com/in/vihar98">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
+-->
 
  
 ### Tech I work with
